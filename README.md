@@ -7,7 +7,8 @@
 ## 사용기술
 - Python
 - Pandas
-- scikit-learn
+- Scikit-learn
+- KoNLPy mecab
 - Gensim Doc2Vec, Word2Vec
 
 ## 활용 데이터
